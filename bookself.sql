@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: May 07, 2026 at 05:58 PM
+
 -- Server version: 11.8.3-MariaDB-log
 -- PHP Version: 8.1.10
 
@@ -36,7 +36,7 @@ CREATE TABLE `buku` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_uca1400_ai_ci;
 
 --
--- Indexes for dumped tables
+-- Indexes for dumped table
 --
 
 --
