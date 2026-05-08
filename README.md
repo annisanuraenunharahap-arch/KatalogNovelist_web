@@ -1,9 +1,9 @@
 # Katalog Novelist
 
-**Nama: Annisa Nuraenun Harahap
-**NIM: 2430511072
-**Kelas: 4B
-**Tema: Data Buka
+- **Nama: Annisa Nuraenun Harahap**
+- **NIM: 2430511072**
+- **Kelas: 4B**
+- **Tema: Data Buka**
 
 ## Deskripsi Proyek
 Aplikasi **Katalog Novelist** adalah platform manajemen katalog novel berbasis web. Aplikasi ini memungkinkan pengguna untuk mendata koleksi novel mereka secara digital.
